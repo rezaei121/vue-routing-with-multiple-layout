@@ -1,5 +1,9 @@
 # vue routing with multiple layout
-## vuejs simple routing with multiple layout(template) example
+## vuejs simple project.
+### include
+- routing
+- multiple layout
+- multi language(i18n)
 
 ## Build Setup
 
