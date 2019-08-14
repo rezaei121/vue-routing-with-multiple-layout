@@ -1,5 +1,5 @@
 # vue routing with multiple layout
-## vuejs simple project.
+## vuejs lazy loading simple project.
 ### include
 - routing
 - multiple layout
